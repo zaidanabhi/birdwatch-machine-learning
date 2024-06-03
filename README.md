@@ -16,3 +16,5 @@ This model is designed to identify 10 species of birds in Indonesia:
 The demo of the model can be tried on the "demo" directory or in the link down below:
 
 https://colab.research.google.com/drive/1W2A9V-bQcwOWJebVcExYlr6in0O-NhPh?usp=sharing  
+
+![image](https://github.com/zaidanabhi/birdwatch-machine-learning/assets/111061159/19fc12c2-9453-4782-8b70-7a678128fc1e)
