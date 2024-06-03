@@ -13,7 +13,7 @@ This model is designed to identify 10 species of birds in Indonesia:
 - BURUNG TIONG BATU KALIMANTAN
 - BURUNG CENDERAWASIH BOTAK
 
-The demo of the model can be tried on the "demo" directory or in the link down below:
+The model's demo can be downloaded on the "demo" directory or tried directly in link down below:
 
 https://colab.research.google.com/drive/1W2A9V-bQcwOWJebVcExYlr6in0O-NhPh?usp=sharing  
 
