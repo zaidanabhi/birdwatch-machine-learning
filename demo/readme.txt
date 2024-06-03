@@ -1,1 +1,1 @@
-This notebook shows an example how the model is used
+This notebook shows an example on how the model is used
