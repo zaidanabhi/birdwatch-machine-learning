@@ -1,7 +1,8 @@
 # birdwatch-machine-learning
 
 This repository is a personal copy of the BirdWatch Machine Learning project. The GitHub repository that is used for production can be checked here:
-https://github.com/Casptone-BirdWatch/birdwatch-ml
+
+https://github.com/Casptone-BirdWatch
 
 This model is designed to identify 10 species of birds in Indonesia:
 
